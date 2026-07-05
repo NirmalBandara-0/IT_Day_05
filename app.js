@@ -178,6 +178,7 @@ function loadTable(){
         </tr>`
 
     console.log(tblCustomers);
+    
 }
 
 
